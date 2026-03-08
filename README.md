@@ -20,7 +20,7 @@ The exam is organized on behalf of the National Coordination Board - GATE, under
 🖥 Examination Mode
 ✔ Computer-Based Test (CBT)
 ✔ Conducted once every year
-✔ Tests conceptual understanding and problem-solving ability
+✔ Tests conceptual understanding and problem-solving
 
 📍 GATE 2026 Organising Institute
 The organising institute for GATE 2027 is:
